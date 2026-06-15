@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "삼성청소기"]
 keywords: ["삼성청소기", "Top10", "shopping"]
 author: "pemtpemt31"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "삼성청소기 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: [삼성 감사 페스티벌] 삼성전자 Bespoke AI 스팀 물걸레 직배수 가격대: 1,991,000원 · 1,427,000원 · 1,607,000원 위…"
+summary: "삼성청소기 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: [삼성 감사 페스티벌] 삼성전자 Bespoke AI 스팀 물걸레 직배수 가격대: 1,991,000원 · 1,427,000원 · 1,607,000원 위…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/230094318176975-ac60ba58-6bb8-4a6f-bd4c-4a0b993771b7.jpg"
   alt: "삼성청소기 추천 TOP10 — [삼성 감사 페스티벌] 삼성전자 Bespoke AI 스"

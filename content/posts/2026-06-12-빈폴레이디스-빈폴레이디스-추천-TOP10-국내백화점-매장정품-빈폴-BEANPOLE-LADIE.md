@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "빈폴레이디스"]
 keywords: ["빈폴레이디스", "Top10", "shopping"]
 author: "pemtpemt31"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "이 글에서는 빈폴레이디스 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 빈폴레이디스는 시간이 흘러도 변치 않는 클래식한 스타일과 뛰어난 품질로 사랑받는 브랜드입니다. 모던하면서도 우아한 감각을 추구하는 여성분들을 위해, 세련된 디자인과 편안한 착용감을…"
+summary: "이 글에서는 빈폴레이디스 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 빈폴레이디스는 시간이 흘러도 변치 않는 클래식한 스타일과 뛰어난 품질로 사랑받는 브랜드입니다. 모던하면서도 우아한 감각을 추구하는 여성분들을 위해, 세련된 디자인과 편안한 착용감을…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/84c1/2a831a12cfed355d3e9b68aa490bcc827f11339510d5c1a9130b7378042a.jpg"
   alt: "빈폴레이디스 추천 TOP10 — [국내백화점 매장정품] 빈폴 BEANPOLE LADIE"
